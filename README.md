@@ -60,4 +60,19 @@
 
 ![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE28nME4GmD2p5nFeF4Yd0p1s03XDYOAMYOG3VyiN8AnRvQo4ktzCIcQjF0ZRIrtvk3iycEWNnrqPZB8rVwBvedX0AyGaJp6PvOSob3bYNcAk3u45e0nIBf7iuwDgC8FbRPKutVkhHrTHMnaV45O6NW0yf_lX_1Uhlh9DrNz9VluC7zVvM8voixd7y3Ny1/s320/14.jpg)
 
+Pertanyaan  
+1.	Apakan upcasting dapat dilakukan dari suatu class terhadap class lain yang tidak memiliki relasi inheritance?  
+Tidak, upcasting hanya dapat dilakukan pada objek yang mempunyai hubungan pewarisan (superclass dan subclass). 
+2.	Dari 2 baris kode program berikut, manakan proses upcasting yang tepat? Jelaskan  
+Pegawai pegawai1 = new Dosen();  
+Pegawai pegawai1 = (Pegawai) new Dosen(); 
+   
+3.	Apa fungsi dari keyword instanceOf?  
+instanceOf digunakan untuk memeriksa apakah sebuah objek adalah instance dari suatu class 
+atau subclass tertentu, sangat berguna untuk validasi sebelum melakukan downcasting	 
+4.	Apa yang dimaksud heterogenous collection?  
+Heterogenous collection adalah kumpulan data yang dapat menyimpan objek dari berbagai 
+tipe, selama mereka berada dalam satu hierarki inheritance.	 
+5.	Sebuah object diinstansiasi dari class Pegawai. Kemudian dilakukan downcasting menjadi object bertipe Dosen. Apakah hal ini dapat dilakukan? Lakukan percobaan untuk membuktikannya.   
+Tidak, objek dari Pegawai tidak bisa di-downcast ke Dosen jika objek asli tidak diinstansiasi sebagai Dosen. Downcasting akan menimbulkan ClassCastException saat runtime. 
 
