@@ -1,1 +1,19 @@
 # PRAK_PBO_KELOMPOK1
+
+
+# KELOMPOK 1
+
+
+
+## NAMA GROUP
+
+    - AMILIL
+    - SAFRIZAL RAHMAN
+    - SHABRINA RAHMADINI
+    - SHABRINA QOTRUNNADA
+
+
+
+## Tech Stack
+
+**java:** JAVA not JAPAN 
