@@ -26,3 +26,4 @@ public class Demo2 {
         newDosen.mengajar();                 // Calling `mengajar()` in `Dosen`
     }
 }
+//push-Shabrina Qottrunnada
