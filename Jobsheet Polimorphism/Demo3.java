@@ -1,3 +1,4 @@
+
 // File: Demo.java
 import java.util.ArrayList;
 
@@ -25,12 +26,12 @@ public class Demo3 {
         }
 
         // Demonstrating upcasting and downcasting
-        Pegawai pegawai1 = dosen1;  // Upcasting
-        pegawai1.displayInfo();  // Calls overridden method in Dosen
+        Pegawai pegawai1 = dosen1; // Upcasting
+        pegawai1.displayInfo(); // Calls overridden method in Dosen
 
         // Downcasting
         if (pegawai1 instanceof Dosen) {
-            Dosen newDosen = (Dosen) pegawai1;  // Downcasting to Dosen
+            Dosen newDosen = (Dosen) pegawai1; // Downcasting to Dosen
             System.out.println(newDosen.nama);
             System.out.println(newDosen.nidn);
             newDosen.mengajar();
@@ -38,8 +39,8 @@ public class Demo3 {
 
         // Attempting invalid downcasting (uncomment to test and observe runtime error)
         /*
-        TenagaKependidikan test = (TenagaKependidikan) pegawai1;
-        */
+         * TenagaKependidikan test = (TenagaKependidikan) pegawai1;
+         */
 
         // Using train method to demonstrate polymorphic argument
         train(dosen1);
@@ -59,3 +60,4 @@ public class Demo3 {
         }
     }
 }
+// sabrina rahmadini
