@@ -35,3 +35,14 @@
 
 ## HASIL NOMOR 1
 ![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgahy0-i93y0b-0OpI3VejdFZ4B0BWEmeA82o4YY0H6LzoUFg8MoAd5TdZh9ndl7660vrb5emPgSHujh0rXB65GBSzUstyUmwf50-ZZ7FnuY3W5BNSAMAqR3SgHQ3r63XkDyp5_8EkY6yRmheHdVWIfmY-eonDWr8KuorREEqWwCEDdPC2DLihaDJH9oGkB/w424-h140/6.jpg)
+
+
+# PRAKTICUM 2
+![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYnWCl4ks4R7HaaEMLo811H641vmsxjpDCPWTClQkHM4DeHenQ5tQRKCPZFJVj7_CPUrapc9rLNtIDqzfqdFFInmZTMTSPCmkE_357S9rrO6OWCfW9ECRtgEQEs2vEU7JfOXDrgw3T7OnSRkQkz5X8AZ5HFqwyawLco1svgUMiDyhPxGRS8VnxoeimeD3O/w476-h275/8.jpg)
+
+![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwU8urMZpDj0x6vLY0EJkIKFYVYoP6XHXcZ_guplZDkXwP48cGXrPUfVblH3qRyvB2oSQdgQ-9LunYjV_NtA90N2XYiakCpaHPJjm___Lo0_LiHmiMz27j9-ImRY0hRiDMbADvzBSQlPPkSjYeH7iV12VwHlcscCiQRUyK0U-cV0jtAT0fEA347Neo-R3w/w426-h177/9.jpg)
+
+## HASIL PRAKTICUM 2
+![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU-0p8z8pxyyomeO2JrfQnCkmG7zi8SVDq6_2ZadaCB9nQn6z_ZHOvOW-U97Dxl3eRPmar7-iq4r0LdwDPInGSou6EhRR8aprEpsf6amEvHQJZJckw_8d1H0UGVG-762UNNqfSEHeJxL8MmCgBq1lmjAmupIp-irz-3PRZySiVmqR89RbzIDXrZaBEx46k/w448-h162/10.jpg)
+
+
